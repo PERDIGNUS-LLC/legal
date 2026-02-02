@@ -1,5 +1,5 @@
 # Privacy Policy & Terms of Service for ObjectScout
-
+<meta name="google-site-verification" content="bnSMSQjmuQY-2TbH4_s69wNLUcjBhqpF_q3RMy8LlZs" />
 **Last Updated:** February 2, 2026
 
 ## 1. Introduction
