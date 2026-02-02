@@ -31,3 +31,4 @@ SECTION 5: DATA SOVEREIGNTY AND AI PROTECTION 5.1 Prohibition on Scraping and Ma
 5.3 Data Sovereignty. Perdignus LLC retains the right to employ technical measures to block any automated extraction of data. Any attempt to bypass these measures constitutes a material breach of this Agreement and a violation of the Computer Fraud and Abuse Act.
 
 For legal inquiries: support@perdignus.com (or your preferred email).
+google-site-verification: google505be54678b1a1ef.html
